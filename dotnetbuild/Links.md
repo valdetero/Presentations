@@ -1,6 +1,6 @@
 # Links
 
-[Github Source](https://github.com/valdetero/Presentations/dotnet-build)
+[Github Source](https://github.com/valdetero/Presentations/blob/main/dotnetbuild)
 
 [MSBuild Schema Definition](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2022)
 
